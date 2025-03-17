@@ -1,4 +1,4 @@
-// Інтерфейс для тварин
+
 interface Animal {
     void makeSound();
     void eat();
